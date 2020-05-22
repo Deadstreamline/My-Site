@@ -1,0 +1,76 @@
+.heading-ima{
+  text-align: center;
+  background-color: #ff5200;
+  padding: 5% 15%;
+  font-family: Caveat;
+  color: white;
+}
+
+.heading-top{
+  font-size: 5rem;
+}
+
+.body-mid{
+  background-color: yellow;
+  text-align: center;
+  padding: 7% 15%;
+  width: 100%;
+}
+
+.card-body{
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-family: Quicksand;
+  font-weight:300;
+}
+.padding-pain{
+ padding-bottom: 2%;
+}
+
+.card-text{
+  padding-bottom: 2px;
+}
+div.col-lg-4{
+  padding: 0;
+}
+.img-head{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10%;
+  height: auto;
+}
+.img-head2{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20%;
+  padding: 0;
+  margin:0;
+}
+
+.row{
+  margin: 0;
+}
+
+.navbar-name{
+  font-family: Lemonada;
+  font-size: 1.3rem;
+  font-weight: 100;
+}
+.mid-body{
+  background-color: white;
+  border: 0;
+}
+
+.bottom-body{
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  background-color: #900c3f;
+}
+
+.card-border{
+
+}
